@@ -1,0 +1,15 @@
+{
+  "name": "uuid",
+  "version": "0.0.0",
+  "description": "",
+  "main": "uuid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jmars/uuid.git"
+  },
+  "author": "",
+  "license": "BSD"
+}
